@@ -1,0 +1,7 @@
+flask
+flask-cors
+python-dotenv
+termcolor
+groq
+
+# Run this to install: pip install -r requirements.txt
